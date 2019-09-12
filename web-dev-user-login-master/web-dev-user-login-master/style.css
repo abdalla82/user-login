@@ -1,0 +1,51 @@
+html {
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    text-align: center;
+    padding-top: 30px;
+    color: rgba(255, 255, 255, 0.8);
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: solid purple;
+    border-radius: 20px;
+    width: 600px;
+    margin: auto;
+    padding-top: 15px;
+}
+
+span.Company img {
+    width: 500px;
+}
+
+div.altlog img {
+    width: 10%;
+    padding: 10px;
+}
+
+hr {
+    width: 50%;
+}
+
+div.box {
+    background-color: purple;
+    padding: 30px 50px;
+}
+
+button {
+    font-size: 20px;
+    background-color: green;
+    color: white;
+    padding: 5px 20px;
+    margin: 7px;
+
+}
+
+a.forget:hover {
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    color:yellow;
+}
